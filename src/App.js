@@ -3,9 +3,9 @@ import twitterLogo from './assets/twitter-logo.svg';
 import React from "react";
 
 // Constants
-const TWITTER_HANDLE = '_buildspace';
+const TWITTER_HANDLE = 'Elishaokon13';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
-const OPENSEA_LINK = '';
+const OPENSEA_LINK = 'https://opensea.io/Elishaokon13';
 const TOTAL_MINT_COUNT = 50;
 
 const App = () => {
